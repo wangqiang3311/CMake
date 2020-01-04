@@ -1,8 +1,11 @@
 # cmake and make
   Excute command below:
-  cd Build
-  cmake ..-G"MinGW Makefiles"
-  make
+  
+  1、cd Build
+  
+  2、cmake ..-G"MinGW Makefiles"
+  
+  3、make
 
 # this is my first c with vscode
   need launch.json and task.json
